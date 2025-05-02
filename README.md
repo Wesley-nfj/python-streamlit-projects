@@ -10,18 +10,23 @@ A simple calculator app built with **Streamlit**. It allows users to perform bas
 - **Folder**: `calculator-app`
 - **Technologies**: Streamlit, Python
 
-### 2. Weather App
-A weather app that fetches weather data from an API and displays it in a user-friendly interface.
-
-- **Folder**: `weather-app`
-- **Technologies**: Streamlit, Python, OpenWeatherMap API
-
-### 3. To-Do App
+### 2. To-Do App
 A to-do list app that lets users add, edit, and remove tasks.
 
 - **Folder**: `todo-app`
 - **Technologies**: Streamlit, Python
 
+### 3. Weather App
+A weather app that fetches weather data from an API and displays it in a user-friendly interface.
+
+- **Folder**: `weather-app`
+- **Technologies**: Streamlit, Python, OpenWeatherMap API
+- 
+### Currency_converter App
+An app that fetches currency exchange data from an API and displays it in a user-friendly interface.
+- **Folder**: `Currency Converter-app`
+- **Technologies**: Streamlit, Python, exchangerate-API
+- 
 ## How to Run Any of These Projects
 
 1. **Clone the repository**:
