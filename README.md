@@ -45,7 +45,6 @@ We welcome your contributions! To add your Streamlit project:
 3. Include the following files:
 
  - `app.py` or `main.py` (your main Streamlit script
- - `requirements.txt` (Python dependencies)
  - `README.md` (explaining the app, setup steps, and optionally a screenshot)
 
 4. Submit a pull request with a clear description.
